@@ -6,4 +6,3 @@ Sign your name below if you followed the GitHub Collaboration Guide!:
  - Loganger
  - Sydney
  - Daniel
- - Chuka
